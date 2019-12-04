@@ -3,9 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="RestAPI_GET_POST.RestAPIEmployeePost"/>
+     <class name="RestAPI_GET_POST.RestAPIEmployeePost"/>
       <class name="RestAPI_GET_POST.RestAPIPost"/>
-      <class name="RestAPI_GET_POST.RestAPIreqresPost"/>
       <class name="RestAPI_GET_POST.RestTestGETCityWeather"/>
       <class name="RestAPI_GET_POST.RestTestGETemployees"/>
     </classes>
